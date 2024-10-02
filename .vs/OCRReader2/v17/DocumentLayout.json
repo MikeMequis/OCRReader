@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\LP II\\OCRReader2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA77F33-DD98-4126-8C2C-D12A2A7EBE0D}|OCRReader2\\OCRReader2.csproj|c:\\users\\marce\\onedrive - funda\u00E7\u00E3o salvador arena\\lp ii\\ocrreader2\\ocrreader2\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA77F33-DD98-4126-8C2C-D12A2A7EBE0D}|OCRReader2\\OCRReader2.csproj|solutionrelative:ocrreader2\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA77F33-DD98-4126-8C2C-D12A2A7EBE0D}|OCRReader2\\OCRReader2.csproj|c:\\users\\marce\\onedrive - funda\u00E7\u00E3o salvador arena\\lp ii\\ocrreader2\\ocrreader2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA77F33-DD98-4126-8C2C-D12A2A7EBE0D}|OCRReader2\\OCRReader2.csproj|solutionrelative:ocrreader2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA77F33-DD98-4126-8C2C-D12A2A7EBE0D}|OCRReader2\\OCRReader2.csproj|c:\\users\\marce\\onedrive - funda\u00E7\u00E3o salvador arena\\lp ii\\ocrreader2\\ocrreader2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AA77F33-DD98-4126-8C2C-D12A2A7EBE0D}|OCRReader2\\OCRReader2.csproj|solutionrelative:ocrreader2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\LP II\\OCRReader2\\OCRReader2\\Form1.cs",
+              "RelativeDocumentMoniker": "OCRReader2\\Form1.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\LP II\\OCRReader2\\OCRReader2\\Form1.cs",
+              "RelativeToolTip": "OCRReader2\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:38:21.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\LP II\\OCRReader2\\OCRReader2\\ImageProcessor.cs",
+              "RelativeDocumentMoniker": "OCRReader2\\ImageProcessor.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\LP II\\OCRReader2\\OCRReader2\\ImageProcessor.cs",
+              "RelativeToolTip": "OCRReader2\\ImageProcessor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswDsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:14:02.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\LP II\\OCRReader2\\OCRReader2\\Form1.cs",
+              "RelativeDocumentMoniker": "OCRReader2\\Form1.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\LP II\\OCRReader2\\OCRReader2\\Form1.cs [Design]",
+              "RelativeToolTip": "OCRReader2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:11:28.492Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
